@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Databases (may contain personal picks / P&L / saved keys)
+*.db
+*.sqlite
+*.sqlite3
+
+# Secrets
+.env
+.env.*
+!.env.example
+*.pem
+
+# Local agent / editor
+.claude/
+.streamlit/secrets.toml
+
+# OS
+.DS_Store
+Thumbs.db
