@@ -5,7 +5,7 @@ times a speaker says a given word or phrase* in an event (rally, press conferenc
 address, interview, signing, earnings call). It tracks markets, logs picks against an edge model,
 and reports P&L / ROI so betting decisions are driven by data instead of gut.
 
-> Built with **Python + Streamlit** and developed with Claude Code.
+> Built with **Python + Streamlit**.
 
 ---
 
